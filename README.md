@@ -3,6 +3,6 @@
  ------------------
  VALIDATE LINK- https://aw.certmetrics.com/amazon/public/verification.aspx
 ---------------------
-badge link-
+badge link- (https://www.credly.com/badges/87a83926-24d9-4d27-9354-6913038555dd/public_url)
 -----------
-(https://www.credly.com/badges/87a83926-24d9-4d27-9354-6913038555dd/public_url)
+
