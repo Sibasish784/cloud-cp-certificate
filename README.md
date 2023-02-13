@@ -1,5 +1,4 @@
 # cloud-cp-certificate (mark and certificate)
- 
  VALIDATION NUMBER- VM1THWKK62E1QSKR
  ------------------
  VALIDATE LINK- https://aw.certmetrics.com/amazon/public/verification.aspx
